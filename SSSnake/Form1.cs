@@ -4,6 +4,7 @@ using System.Drawing;
 using System.Drawing.Imaging; // for jpg compressor
 using System.Windows.Forms;
 
+// Credit: Moo ICT @ https://www.youtube.com/watch?v=TzaCn1ZPalI&t=3415s
 
 namespace SSSnake
 {

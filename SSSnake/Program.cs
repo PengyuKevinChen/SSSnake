@@ -6,6 +6,7 @@ using System.Windows.Forms;
 
 namespace SSSnake
 {
+    // Credit: Moo ICT @ https://www.youtube.com/watch?v=TzaCn1ZPalI&t=3415s
     static class Program
     {
         /// <summary>

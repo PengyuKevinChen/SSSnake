@@ -1,5 +1,6 @@
 ﻿namespace SSSnake
 {
+    // Credit: Moo ICT @ https://www.youtube.com/watch?v=TzaCn1ZPalI&t=3415s
     public class Circle
     {
         public int X { get; set; }
